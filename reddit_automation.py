@@ -204,7 +204,7 @@ def find_and_message_user(driver):
             print("No comments found")
             return False
 
-        skip_users = ['AltruisticDistance56', 'AutoModerator', 'Dependent-Taste-9645']#this is to ignore your accounts
+        skip_users = ['AltruisticDistance56', 'AutoModerator', 'Dependent-Taste-9645', 'Misaboi']#this is to ignore your accounts
       
         for comment in comments:
             try:
